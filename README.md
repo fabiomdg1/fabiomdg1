@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Fabio !
 
+I'm Web Full Stack in formation in the SoulCode Academy.
+
 <!--
 **fabiomdg1/fabiomdg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
