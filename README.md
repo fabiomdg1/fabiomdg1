@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Fabio !
+###Olá, eu sou o Fabio, pros mais íntimos apenas Binho 👋
 
 I'm Web Full Stack in formation in the SoulCode Academy.
 
