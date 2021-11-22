@@ -9,8 +9,9 @@ Agora que o petshop está caminhando bem, resolvi migrar para um novo desafio, u
 
 ### O que estou fazendo
 Atualmente estou estudando na <a href="https://soulcodeacademy.org/" rel="nofollow">SoulCode Academy</a>, cursando Desenvolvimento WebFullStack o que está sendo vital nesta transição de carreira.
-E também cursando inglês na <a href="https://www.lingopass.com.br/" rel="nofollow">Lingopass</a>, que está incluído na formação proporcionada pela SoulCode
-
+E também cursando inglês na <a href="https://www.lingopass.com.br/" rel="nofollow">Lingopass</a>, que está incluído na formação proporcionada pela SoulCode.<br/>
+Mantenho um resumo do que estou estudando <a href="https://github.com/fabiomdg1/fabiomdg1/blob/main/dario.md" rel="nofollow">aqui.</a>
+  
 ### Livro que estou lendo atualmente
 Estruturas de dados e algorítmos em JavaScript - Loiane Groner
 
