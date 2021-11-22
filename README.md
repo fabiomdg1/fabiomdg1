@@ -4,7 +4,7 @@ Atualmente estou focando meus estudos no desenvolvimento Web, para ser mais prec
 
 ### Meu background
 Nos últimos 7 anos atuei na gestão de um petshop, o que contribuiu muito para o aperfeiçoamento das minhas soft skills.
-Agora que o petshop está caminhando bem, resolvi migrar para um novo desafio, um desejo antigo que hoje está se tornando realidade,me tornar um desenvolvedor.
+Agora que o petshop está caminhando bem, resolvi migrar para um novo desafio, um desejo antigo que hoje está se tornando realidade, me tornar um desenvolvedor.
 
 
 ### O que estou fazendo
