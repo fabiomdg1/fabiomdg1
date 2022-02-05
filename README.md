@@ -1,6 +1,17 @@
 ### Olá, eu sou o Fabio 👋
 Iniciei minha transição de carreira para área de desenvolvimento em 2021.
-Atualmente estou focando meus estudos no desenvolvimento Web, para ser mais preciso nas tecnologias JavaScript, Node.js e MongoDB.
+Atualmente estou focando meus estudos no desenvolvimento Web, para ser mais preciso nas tecnologias:
+* HTML5
+* CSS3
+* Jquery
+* Bootstrap
+* JavaScript
+* Node.js
+* Angular
+* MongoDB
+* MySql
+* Firebase
+* Java
 
 ### Meu background
 Nos últimos 7 anos atuei na gestão de um petshop, o que contribuiu muito para o aperfeiçoamento das minhas soft skills.
