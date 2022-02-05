@@ -1,4 +1,4 @@
-### Olá, eu sou o Fabio, mas pode me chamar de Binho 👋
+### Olá, eu sou o Fabio 👋
 Iniciei minha transição de carreira para área de desenvolvimento em 2021.
 Atualmente estou focando meus estudos no desenvolvimento Web, para ser mais preciso nas tecnologias JavaScript, Node.js e MongoDB.
 
@@ -10,18 +10,12 @@ Agora que o petshop está caminhando bem, resolvi migrar para um novo desafio, u
 ### O que estou fazendo
 Atualmente estou estudando na <a href="https://soulcodeacademy.org/" rel="nofollow">SoulCode Academy</a>, cursando Desenvolvimento WebFullStack o que está sendo vital nesta transição de carreira.
 E também cursando inglês na <a href="https://www.lingopass.com.br/" rel="nofollow">Lingopass</a>, que está incluído na formação proporcionada pela SoulCode.<br/>
-Mantenho um resumo do que estou estudando <a href="https://github.com/fabiomdg1/fabiomdg1/blob/main/dario.md" rel="nofollow">aqui.</a>
   
-### Livro que estou lendo atualmente
-Estruturas de dados e algorítmos em JavaScript - Loiane Groner
-
 ### Onde me encontrar
 Atualmente estou morando em São Paulo e você pode entrar contato comigo por aqui:
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
 <a href="mailto:fabiomdg1@gmail.com">fabiomdg1@gmail.com</a>
-
-
 
 
 
