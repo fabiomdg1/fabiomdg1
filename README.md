@@ -12,23 +12,12 @@ Atualmente estou focando meus estudos no desenvolvimento Web, para ser mais prec
 * MySql
 * Firebase
 * Java
-
-### Meu background
-Nos últimos 7 anos atuei na gestão de um petshop, o que contribuiu muito para o aperfeiçoamento das minhas soft skills.
-Agora que o petshop está caminhando bem, decidi migrar para um novo desafio, um desejo antigo que hoje está se tornando realidade, me tornar um desenvolvedor.
-
-
-### O que estou fazendo
-Atualmente estou estudando na <a href="https://soulcodeacademy.org/" rel="nofollow">SoulCode Academy</a>, cursando Desenvolvimento WebFullStack o que está sendo vital nesta transição de carreira.
-E também cursando inglês na <a href="https://www.lingopass.com.br/" rel="nofollow">Lingopass</a>, que está incluído na formação proporcionada pela SoulCode.<br/>
   
 ### Onde me encontrar
 Atualmente estou morando em São Paulo e você pode entrar contato comigo por aqui:
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
 <a href="mailto:fabiomdg1@gmail.com">fabiomdg1@gmail.com</a>
-
-
 
 
 <!--
