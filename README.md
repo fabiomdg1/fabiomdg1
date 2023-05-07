@@ -1,6 +1,5 @@
 ### Olá, eu sou o Fabio 👋
-Iniciei minha transição de carreira para área de desenvolvimento em 2021.<br>
-Atualmente estou focando meus estudos no desenvolvimento Web, e trabalhando com FullStack e back em Java.
+Atualmente estou atuando como desenvolvedor Java.
   
 ### Onde me encontrar
 Atualmente estou morando em São Paulo e você pode entrar contato comigo por aqui:
