@@ -1,5 +1,4 @@
 ### Olá, eu sou o Fabio 👋
-Atualmente estou atuando como desenvolvedor Java.
   
 ### Onde me encontrar
 Atualmente estou morando em São Paulo e você pode entrar contato comigo por aqui:
