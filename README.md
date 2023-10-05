@@ -1,7 +1,10 @@
 ### Olá, eu sou o Fabio 👋
   
 ### Onde me encontrar
-Atualmente estou morando em São Paulo e você pode entrar contato comigo por aqui:
+Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento. <br>
+Tenho experiência em Java e estou atualmente estudando React para ampliar meu conhecimento no desenvolvimento de interfaces dinâmicas e interativas. <br>
+Além disso, possuo conhecimentos em HTML, CSS, MySQL e Spring Boot. <br>
+Estou sempre em busca de aprender e aplicar novas tecnologias para aprimorar minhas capacidades no mundo do desenvolvimento Front End e Back End.
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
 <a href="mailto:fabiomdg1@gmail.com">fabiomdg1@gmail.com</a>
