@@ -2,7 +2,7 @@
   
 ### Onde me encontrar
 Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento. <br>
-Tenho experiência em Java e estou atualmente estudando React para ampliar meu conhecimento no desenvolvimento de interfaces dinâmicas e interativas. <br>
+Tenho experiência em Java e estou atualmente estudando JavaScript para ampliar meu conhecimento no desenvolvimento de interfaces dinâmicas e interativas. <br>
 Além disso, possuo conhecimentos em HTML, CSS, MySQL e Spring Boot. <br>
 Estou sempre em busca de aprender e aplicar novas tecnologias para aprimorar minhas capacidades no mundo do desenvolvimento Front End e Back End.
 
