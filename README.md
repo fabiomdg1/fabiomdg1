@@ -1,10 +1,9 @@
 ### Olá, eu sou o Fabio 👋
-  
-### Onde me encontrar
-Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento. <br>
-Tenho experiência em Java e estou atualmente estudando JavaScript para ampliar meu conhecimento no desenvolvimento de interfaces dinâmicas e interativas. <br>
-Além disso, possuo conhecimentos em HTML, CSS, MySQL e Spring Boot. <br>
-Estou sempre em busca de aprender e aplicar novas tecnologias para aprimorar minhas capacidades no mundo do desenvolvimento Front End e Back End.
+Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento.
+
+💼 Desenvolvedor com experiência em Java e em constante aprendizado de JavaScript para criar interfaces dinâmicas e interativas.
+🌱 Também possuo conhecimentos em HTML, CSS, MySQL e Spring Boot.
+👨‍💻 Estou sempre em busca de aprender e aplicar novas tecnologias para aprimorar minhas capacidades no mundo do desenvolvimento Front-end e Back-end.
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
 <a href="mailto:fabiomdg1@gmail.com">fabiomdg1@gmail.com</a>
