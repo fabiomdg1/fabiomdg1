@@ -2,7 +2,7 @@
 Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento de software.
 
 💼 Desenvolvedor com experiência em Java e em constante aprendizado de JavaScript, React e Node.js.
-👨‍💻 Estou sempre em busca de aprender e aplicar novas tecnologias para aprimorar minhas capacidades no mundo do desenvolvimento Front-end e Back-end.
+
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
 <a href="mailto:fabiomdg1@gmail.com">fabiomdg1@gmail.com</a>
