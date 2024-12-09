@@ -1,7 +1,7 @@
 ### Olá, eu sou o Fabio 👋
 Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento de software.
 
-💼 Desenvolvedor com experiência em Java e em constante aprendizado de JavaScript, React e Node.js.
+💼 Desenvolvedor com experiência em Java, PHP, React JS.
 
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
