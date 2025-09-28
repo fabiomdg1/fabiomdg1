@@ -1,8 +1,8 @@
 ### Olá, eu sou o Fabio 👋
-Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de desenvolvimento de software.
+Atualmente moro em São Paulo e estou focado em **automação de processos com n8n** e integração de sistemas.
 
-💼 Desenvolvedor com experiência em Java, PHP, React JS.
-
+💼 Desenvolvedor com experiência em **n8n, Java, PHP e React JS**.  
+🔗 Trabalho em soluções que conectam APIs, bancos de dados e automações inteligentes.
 
 <a href="https://www.linkedin.com/in/fabiomdg1/" rel="nofollow">LinkedIn</a><br>
 <a href="mailto:fabiomdg1@gmail.com">fabiomdg1@gmail.com</a>
@@ -14,14 +14,10 @@ Atualmente moro em São Paulo e estou focado em aprimorar minhas habilidades de 
 
 **fabiomdg1/fabiomdg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideias para complementar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente trabalhando com automações no n8n
+- 🌱 Aprofundando em integrações com APIs e bancos de dados
+- 💬 Pergunte-me sobre automações, integrações e boas práticas no n8n
+- 📫 Contato: fabiomdg1@gmail.com
 -->
